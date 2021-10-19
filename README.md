@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[![Semo's GitHub stats](https://github-readme-stats.vercel.app/api?username=semo&show_icons=true&theme=radical&count_private=true](https://github.com/anuraghazra/github-readme-stats)
-
+[![Semo's GitHub stats](https://github-readme-stats.vercel.app/api?username=semo&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 🔭 I’m currently working on a distributed-failsafe-automatic-numberplate-recognition-backend including a frontend as a containerized (podman) solution.
