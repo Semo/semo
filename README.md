@@ -6,7 +6,11 @@
 🔭 I’m currently working on a distributed-failsafe-automatic-numberplate-recognition-backend including a frontend as a containerized (podman) solution.
 This technology involves the use of Apache Kafka.
 
-🌱 I’m currently learning Angular and TypeScript.
+🌱 I’m currently in Android and GIS stuff.
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: Kubernetes is overrated.
 
 <!--
 **Semo/semo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,6 +23,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns:
 - ⚡ Fun fact: ...
 -->
