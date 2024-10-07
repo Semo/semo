@@ -5,7 +5,7 @@
 
 🔭 Jep, it's me.
 
-🌱 I’m currently in Android and GIS stuff.
+🌱 I’m currently in GIS stuff.
 
 😄 Pronouns: He/Him
 
