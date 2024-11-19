@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Semo's GitHub stats](https://github-readme-stats.vercel.app/api?username=semo&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Semo's GitHub stats](https://github-readme-stats.vercel.app/api?username=semo&show_icons=true&theme=radical&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
 
 
 🔭 Jep, it's me.
